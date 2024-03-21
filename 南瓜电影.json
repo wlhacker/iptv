@@ -1,7 +1,7 @@
     {
-    "站点":"奇优影院",
+    "站点":"南瓜电影",
     
-    "主页url":"http://www.qiyoudy1.com/",
+    "主页url":"https://v.vcinema.cn/",
     
     "简介":"在线免费观看，&&</div>",
     
@@ -45,7 +45,7 @@
     
     "播放标题":">&&</a>",
         
-    "分类url":"http://www.qiyoudy1.com/list/{cateId}_{catePg}.html[http://www.qiyoudy1.com/list/{cateId}.html];;ak",
+    "分类url":"https://v.vcinema.cn/list/{cateId}_{catePg}.html[https://v.vcinema.cn/list/{cateId}.html];;ak",
     
     "分类":"电影$1#电视剧$2#动漫$3#综艺$4",
     
