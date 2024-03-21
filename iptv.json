@@ -2,7 +2,7 @@
 //切勿相信里面的所有广告
 
 {
-  "spider": "https://download.kstore.space/download/2883/nzk/nzk0722.jar",
+  "spider": "https://raw.githubusercontent.com/wlhacker/iptv/main/nzk0722.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=biying&type=302",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://raw.githubusercontent.com/wlhacker/iptv/main/iptv.txt"]}]}],
   "sites": [
