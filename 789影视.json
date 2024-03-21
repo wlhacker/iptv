@@ -1,7 +1,7 @@
     {
-    "站名":"789影吧",
+    "站名":"手机电影",
     
-    "主页url":"https://www.789ba.com/",
+    "主页url":"https://www.1680s.net/",
     
     "简介":"<p class=\"col-pd\">&&</p>",
     
@@ -49,7 +49,7 @@
     
     "播放列表":"<a&&/a>",
     
-    "分类url":"https://www.789ba.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ak",
+    "分类url":"https://www.1680s.net/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ak",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
     
