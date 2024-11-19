@@ -89,6 +89,10 @@ NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/
 纬来体育1,http://211.72.65.236:8585/.m3u8
 纬来体育2,rtmp://f13h.mine.nu/sat/tv721
 纬来体育3,http://iptv12k.com:35461/live/test167/12345/1261.m3u8
+纬来体育4,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
+风云足球1,http://59.51.113.18:18888/udp/239.76.254.52:9000
+风云足球2,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+魅力足球1,https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-5.m3u8
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
